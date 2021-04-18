@@ -1,0 +1,62 @@
+server:
+  port: 18083
+
+#配置redis
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/tanhua-manager?useUnicode=true&characterEncoding=utf8&autoReconnect=true&allowMultiQueries=true&useSSL=false
+    username: root
+    password: root
+  redis:
+    host: 192.168.183.66
+    port: 6379
+dubbo:
+  application:
+    name: tanhua-manage
+  registry:
+    address: zookeeper://192.168.183.66:2181
+#配置第三方平台信息
+tanhua:
+  sms:
+    signName: 袁小杰
+    templateCode: SMS_99320050
+    accessKey: LTAI6oNQblwg4mjc
+    secret: pBJAfwYp0bo4EZWiBA5LfOK1qgMHln
+  oss:
+    accessKey: LTAI5tNS74ihsMXKh5r8kvEK
+    secret: dssmlcGoT1Avba7ERYanzN9gWJ46Se
+    bucketName: dean-tanhua
+    endpoint: oss-cn-guangzhou.aliyuncs.com
+    url: https://dean-tanhua.oss-cn-guangzhou.aliyuncs.com
+  aip:
+    appId: 23889032
+    apiKey: hRDuzx9k3oGLgmEUrsNjI6M1
+    secretKey: sdxVsEY2qqOxAGz3TNkAaegGTpnyqTM2
+  huanxin:
+    url: http://a1.easemob.com/
+    orgName: 1113210405148162
+    appName: demo
+    clientId: YXA6llGDiqxXQXKpygmGu7Fa_g
+    clientSecret: YXA6jRuxczWG-fdGO64a0BDI9l-JEPs
+  huawei:
+    username: tanhua
+    password: tanhua123
+    project: cn-north-1
+    domain: odd466b7514015027768
+    # 图片检测内容 politics：是否涉及政治人物的检测，terrorism：是否包含涉政暴恐元素的检测，porn：是否包含涉黄内容元素的检测，ad：是否包含广告的检测（公测特性），all：包含politics、terrorism和porn三种场景的检测
+    cagegoriesImage: politics,terrorism,porn
+    # 文字检测内容 politics：涉政，porn：涉黄，ad：广告，abuse：辱骂，contraband：违禁品，flood：灌水
+    cagegoriesText: politics,porn,ad,abuse,contraband,flood
+  secret: abcde
+#-------------------------------------------
+
+#mybaits-plus
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: tb_    #数据库表前缀
+      id-type: auto        #数据库表主键的策略
+#==========================rocketMQ==============
+rocketmq:
+  name-server: 192.168.183.66:9876

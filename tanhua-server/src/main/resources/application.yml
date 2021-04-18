@@ -1,0 +1,59 @@
+server:
+  port: 18080
+dubbo:
+  application:
+    name: tanhua-server
+  registry:
+    address: zookeeper://192.168.183.66:2181
+
+tanhua:
+  sms:
+    signName: 袁小杰
+    templateCode: SMS_99320050
+    accessKey: LTAI6oNQblwg4mjc
+    secret: pBJAfwYp0bo4EZWiBA5LfOK1qgMHln
+  oss:
+    accessKey: LTAI5tNS74ihsMXKh5r8kvEK
+    secret: dssmlcGoT1Avba7ERYanzN9gWJ46Se
+    bucketName: dean-tanhua
+    endpoint: oss-cn-guangzhou.aliyuncs.com
+    url: https://dean-tanhua.oss-cn-guangzhou.aliyuncs.com
+  aip:
+    appId: 23889032
+    apiKey: hRDuzx9k3oGLgmEUrsNjI6M1
+    secretKey: sdxVsEY2qqOxAGz3TNkAaegGTpnyqTM2
+  huanxin:
+    url: http://a1.easemob.com/
+    orgName: 1113210405148162
+    appName: demo
+    clientId: YXA6llGDiqxXQXKpygmGu7Fa_g
+    clientSecret: YXA6jRuxczWG-fdGO64a0BDI9l-JEPs
+  secret: abcde
+#-------------------------------------------
+spring:
+  redis:
+    host: 192.168.183.66
+    port: 6379
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 100MB
+# ===================================================================
+# 分布式文件系统FDFS配置
+# ===================================================================
+fdfs:
+  so-timeout: 1500
+  connect-timeout: 600
+  #缩略图生成参数
+  thumb-image:
+    width: 150
+    height: 150
+  #TrackerList参数,支持多个
+  tracker-list: 192.168.183.66:22122
+  web-server-url: http://192.168.183.66:8888/
+#==========================rocketMQ==============
+rocketmq:
+  name-server: 192.168.183.66:9876
+  producer:
+    group: tanhua
+    send-message-timeout: 10000

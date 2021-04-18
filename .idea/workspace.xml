@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1356bebf-229d-44e4-8281-e2bc6e321e40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_spring_spring_context_support_1_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_4_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_dysmsapi_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ecs_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_kms_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ram_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_sts_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_3_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baidu_aip_java_sdk_4_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_tobato_fastdfs_client_1_26_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_0_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_2_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_2_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_autoconfigure_2_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_autoconfigure_compatible_2_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_starter_2_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_acl_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_client_4_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_common_4_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_logging_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_remoting_4_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_spring_boot_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_spring_boot_starter_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_srvutil_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom2_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20160810.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_sync_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/src/main/java/com/tanhua/commons/config/TanhuaAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/src/main/java/com/tanhua/commons/properties/AipFaceProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/src/main/java/com/tanhua/commons/properties/HuaWeiUGCProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/src/main/java/com/tanhua/commons/properties/HuanXinProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/src/main/java/com/tanhua/commons/properties/OssProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/src/main/java/com/tanhua/commons/properties/SmsProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/src/main/java/com/tanhua/commons/template/AipFaceTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/src/main/java/com/tanhua/commons/template/HuaWeiUGCTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/src/main/java/com/tanhua/commons/template/HuanXinTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/src/main/java/com/tanhua/commons/template/OssTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/src/main/java/com/tanhua/commons/template/SmsTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/src/main/java/com/tanhua/commons/vo/HuanXinUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/tanhua-commons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/target/classes/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/target/classes/com/tanhua/commons/config/TanhuaAutoConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/target/classes/com/tanhua/commons/properties/AipFaceProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/target/classes/com/tanhua/commons/properties/HuaWeiUGCProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/target/classes/com/tanhua/commons/properties/HuanXinProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/target/classes/com/tanhua/commons/properties/OssProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/target/classes/com/tanhua/commons/properties/SmsProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/target/classes/com/tanhua/commons/template/AipFaceTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/target/classes/com/tanhua/commons/template/HuaWeiUGCTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/target/classes/com/tanhua/commons/template/HuanXinTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/target/classes/com/tanhua/commons/template/OssTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/target/classes/com/tanhua/commons/template/SmsTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-commons/target/classes/com/tanhua/commons/vo/HuanXinUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/db/Announcement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/db/Answers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/db/BasePojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/db/BlackList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/db/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/db/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/db/SoulOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/db/SoulPaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/db/SoulPaperQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/db/SoulQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/db/SoulReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/db/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/db/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/enums/ConclusionEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/enums/CoverEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/Cards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/CardsUnlove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/FollowUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/Friend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/PeachBlossom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/Publish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/PublishScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/RecommendQuanzi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/RecommendUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/RemainingTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/TestSoulConclusion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/TestSoulOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/TestSoulPaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/TestSoulQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/TimeLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/UserLike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/UserLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/VideoScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/mongo/Visitors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/AnnouncementVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/CardsUserVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/CommentVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/ConclusionVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/ContractVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/ErrorResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/MessageLikeVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/MovementsVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/NearUserVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/OptionsVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/PageResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/PaperListVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/PeachBlossomVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/QuestionsVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/RecommendQueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/SettingsVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/SoulDimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/SoulSimilarYou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/TodayBestVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/UserInfoVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/UserLikeVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/UserLocationVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/VideoVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/src/main/java/com/tanhua/domain/vo/VisitorsVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/tanhua-domain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/db/Announcement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/db/Answers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/db/BasePojo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/db/BlackList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/db/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/db/Settings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/db/SoulOptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/db/SoulPaper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/db/SoulPaperQuestion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/db/SoulQuestion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/db/SoulReport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/db/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/db/UserInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/enums/ConclusionEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/enums/CoverEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/Album.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/Cards.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/CardsUnlove.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/Comment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/FollowUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/Friend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/PeachBlossom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/Publish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/PublishScore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/RecommendQuanzi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/RecommendUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/RemainingTimes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/Sequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/TestSoulConclusion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/TestSoulOption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/TestSoulPaper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/TestSoulQuestion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/TimeLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/UserLike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/UserLocation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/Video.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/VideoScore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/mongo/Visitors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/AnnouncementVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/CardsUserVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/CommentVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/ConclusionVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/ContractVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/ErrorResult$ErrorResultBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/ErrorResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/MessageLikeVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/MovementsVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/NearUserVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/OptionsVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/PageResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/PaperListVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/PeachBlossomVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/QuestionsVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/RecommendQueryVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/SettingsVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/SoulDimensions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/SoulSimilarYou.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/TodayBestVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/UserInfoVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/UserLikeVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/UserLocationVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/VideoVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-domain/target/classes/com/tanhua/domain/vo/VisitorsVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/AnnouncementApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/BlackListApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/QuestionApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/SettingsApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/SoulOptionsApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/SoulPaperApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/SoulPaperQuestionApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/SoulQuestionApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/SoulReportApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/UserApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/UserInfoApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/mongo/CardsApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/mongo/CardsUnloveApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/mongo/CommentApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/mongo/FriendApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/mongo/PeachBlossomApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/mongo/PublishApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/mongo/RecommendUserApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/mongo/UserLikeApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/mongo/UserLocationApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/mongo/VideoApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/api/mongo/VisitorsApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/tanhua-dubbo-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/AnnouncementApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/BlackListApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/QuestionApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/SettingsApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/SoulOptionsApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/SoulPaperApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/SoulPaperQuestionApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/SoulQuestionApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/SoulReportApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/UserApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/UserInfoApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/mongo/CardsApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/mongo/CardsUnloveApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/mongo/CommentApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/mongo/FriendApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/mongo/PeachBlossomApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/mongo/PublishApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/mongo/RecommendUserApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/mongo/UserLikeApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/mongo/UserLocationApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/mongo/VideoApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/classes/com/tanhua/dubbo/api/mongo/VisitorsApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/DubboServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/AnnouncementApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/BlackListApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/QuestionApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/SettingsApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/SoulOptionsApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/SoulPaperApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/SoulPaperQuestionApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/SoulQuestionApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/SoulReportApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/UserApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/UserInfoApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/mongo/CardsApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/mongo/CardsUnloveApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/mongo/CommentApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/mongo/FriendApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/mongo/PeachBlossomApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/mongo/PublishApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/mongo/RecommendUserApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/mongo/UserLikeApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/mongo/UserLocationApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/mongo/VideoApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/api/impl/mongo/VisitorsApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/handler/MyMetaObjectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/mapper/AnnouncementMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/mapper/BlackListMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/mapper/QuestionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/mapper/SettingsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/mapper/SoulOptionsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/mapper/SoulPaperMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/mapper/SoulPaperQuestionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/mapper/SoulQuestionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/mapper/SoulReportMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/mapper/UserInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/utils/IdService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/test/java/com/tanhua/dubbo/test/IdServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/test/java/com/tanhua/dubbo/test/PeachBlossomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/test/java/com/tanhua/dubbo/test/RecommondTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/test/java/com/tanhua/dubbo/test/SequenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/test/java/com/tanhua/dubbo/test/UserApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/test/java/com/tanhua/dubbo/test/UserInfoApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/src/test/java/com/tanhua/dubbo/test/VideoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/tanhua-dubbo-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/DubboServerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/AnnouncementApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/BlackListApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/QuestionApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/SettingsApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/SoulOptionsApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/SoulPaperApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/SoulPaperQuestionApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/SoulQuestionApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/SoulReportApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/UserApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/UserInfoApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/mongo/CardsApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/mongo/CardsUnloveApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/mongo/CommentApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/mongo/FriendApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/mongo/PeachBlossomApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/mongo/PublishApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/mongo/RecommendUserApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/mongo/UserLikeApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/mongo/UserLocationApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/mongo/VideoApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/api/impl/mongo/VisitorsApiImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/config/MybatisPlusConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/handler/MyMetaObjectHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/mapper/AnnouncementMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/mapper/BlackListMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/mapper/QuestionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/mapper/SettingsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/mapper/SoulOptionsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/mapper/SoulPaperMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/mapper/SoulPaperQuestionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/mapper/SoulQuestionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/mapper/SoulReportMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/mapper/UserInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/classes/com/tanhua/dubbo/utils/IdService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/test-classes/com/tanhua/dubbo/test/IdServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/test-classes/com/tanhua/dubbo/test/PeachBlossomTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/test-classes/com/tanhua/dubbo/test/RecommondTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/test-classes/com/tanhua/dubbo/test/SequenceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/test-classes/com/tanhua/dubbo/test/UserApiTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/test-classes/com/tanhua/dubbo/test/UserInfoApiTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/test-classes/com/tanhua/dubbo/test/VideoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/ManagerServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/controller/AnalysisController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/domain/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/domain/AnalysisByDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/domain/Freeze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/domain/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/domain/UnFreeze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/exception/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/exception/ExceptionAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/interceptor/AdminHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/interceptor/TokenInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/interceptor/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/job/AnalysisJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/listener/LogMessageListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/listener/PublishMessageListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/mapper/AdminMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/mapper/AnalysisByDayMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/mapper/FreezeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/mapper/LogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/mapper/UnFreezeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/service/AnalysisByDayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/service/FreezeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/service/LogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/utils/ComputeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/vo/AdminVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/vo/AnalysisSummaryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/java/com/tanhua/manage/vo/CommonResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/test/java/com/tanhua/manage/test/AdminServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/src/test/java/com/tanhua/manage/test/HuaWeiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/tanhua-manage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/ManagerServerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/controller/AdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/controller/AnalysisController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/domain/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/domain/AnalysisByDay$AnalysisByDayBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/domain/AnalysisByDay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/domain/Freeze$FreezeBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/domain/Freeze.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/domain/Log$LogBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/domain/Log.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/domain/UnFreeze$UnFreezeBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/domain/UnFreeze.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/exception/BusinessException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/exception/ExceptionAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/interceptor/AdminHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/interceptor/TokenInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/interceptor/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/job/AnalysisJob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/listener/LogMessageListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/listener/PublishMessageListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/mapper/AdminMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/mapper/AnalysisByDayMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/mapper/FreezeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/mapper/LogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/mapper/UnFreezeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/service/AdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/service/AnalysisByDayService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/service/FreezeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/service/LogService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/utils/ComputeUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/vo/AdminVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/vo/AnalysisSummaryVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/classes/com/tanhua/manage/vo/CommonResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/test-classes/com/tanhua/manage/test/AdminServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-manage/target/test-classes/com/tanhua/manage/test/HuaWeiTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-recommend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-recommend/src/main/java/com/tanhuan/recommend/RecommendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-recommend/src/main/java/com/tanhuan/recommend/listener/PublishScoreListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-recommend/src/main/java/com/tanhuan/recommend/listener/VideoScoreListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-recommend/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-recommend/tanhua-recommend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-recommend/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-recommend/target/classes/com/tanhuan/recommend/RecommendApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-recommend/target/classes/com/tanhuan/recommend/listener/PublishScoreListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-recommend/target/classes/com/tanhuan/recommend/listener/VideoScoreListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/TanhuaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/BaiduController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/CommentsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/DeanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/HuanxinController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/IMController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/MovementsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/PeachBlossomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/SettingsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/TestSoulController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/TodayBestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/UserInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/controller/VideoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/exception/ExceptionAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/interceptor/TokenInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/interceptor/UserHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/interceptor/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/service/BaiduService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/service/IMService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/service/MovementsMQService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/service/MovementsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/service/PeachBlossomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/service/SettingsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/service/TestSoulService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/service/TodayBestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/service/VideoMQService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/service/VideoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/utils/ComputeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/utils/JwtUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/java/com/tanhua/server/utils/RelativeDateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/AipFaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/FastDfsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/JwtTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/OssTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/RedisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/SmsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/TestSoulTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/cache/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/cache/UserInfoTestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/huanxin/HuanxinTemplateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/huanxin/HuanxinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/lombok/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/src/test/java/com/tanhua/server/test/lombok/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/tanhua-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/TanhuaServerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/BaiduController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/CommentsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/DeanTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/HuanxinController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/IMController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/MovementsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/PeachBlossomController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/SettingsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/TestSoulController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/TodayBestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/UserInfoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/controller/VideoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/exception/ExceptionAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/interceptor/TokenInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/interceptor/UserHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/interceptor/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/service/BaiduService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/service/CommentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/service/IMService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/service/MovementsMQService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/service/MovementsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/service/PeachBlossomService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/service/SettingsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/service/TestSoulService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/service/TodayBestService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/service/VideoMQService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/service/VideoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/utils/ComputeUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/utils/JwtUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/classes/com/tanhua/server/utils/RelativeDateFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/AipFaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/FastDfsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/JwtTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/OssTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/RedisTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/SmsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/TestSoulTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/cache/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/cache/UserInfoTestService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/huanxin/HuanxinTemplateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/huanxin/HuanxinTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/lombok/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/lombok/Person$PersonBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua-server/target/test-classes/com/tanhua/server/test/lombok/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tanhua.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/tanhua-dubbo/target/" />
+    <ignored path="$PROJECT_DIR$/tanhua-commons/target/" />
+    <ignored path="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service/target/" />
+    <ignored path="$PROJECT_DIR$/tanhua-manage/target/" />
+    <ignored path="$PROJECT_DIR$/tanhua-server/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/tanhua-recommend/target/" />
+    <ignored path="$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface/target/" />
+    <ignored path="$PROJECT_DIR$/tanhua-domain/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="D:\myjava\repository" />
+        <option name="mavenHome" value="D:/myjava/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\myjava\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=interna  -Dfile.encoding=UTF-8" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="950" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tanhua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tanhua" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1356bebf-229d-44e4-8281-e2bc6e321e40" name="Default Changelist" comment="" />
+      <created>1618754381153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618754381153</updated>
+      <workItem from="1618754382667" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="278000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="760" y="-8" width="784" height="840" extended-state="0" />
+    <layout>
+      <window_info id="JRebel" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2493113" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.3292011" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Codota" />
+      <window_info anchor="right" id="Word Book" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
